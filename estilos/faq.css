@@ -1,16 +1,8 @@
-@charset 'UTF-8';
-
-*{
-    padding: 0px;
-    margin: 0px;
-
+.faqPerguntas{
+    cursor:pointer; 
+    color: #E0E1DD;
+}
+.faqRespostas{
+    color: #E0E1DD;
 }
 
-.ajust-image{
-    padding: 0px;
-    margin-left: 150px;
-}
-
-.color-link{
-    color: white;
-}
